@@ -16,19 +16,22 @@ Front-end Developer with **1.5 years** of experience in developing web applicati
 
 
 ### Familiarity with 🔥
-![Play](https://img.shields.io/badge/TypeScript-505968?logo=typescript&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/React.js-505968?logo=react&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Less-505968?logo=less&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Alpine.js-505968?logo=alpine.js&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Tailwind-505968?logo=tailwindcss&logoColor=fff&style=flat)<br/>
-![Play](https://img.shields.io/badge/Lua-505968?logo=lua&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/MySQL-505968?logo=mysql&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Socket.io-505968?logo=socket.io&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Docker-505968?logo=docker&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Git-505968?logo=git&logoColor=fff&style=flat)<br/>
-![Play](https://img.shields.io/badge/WordPress-505968?logo=wordpress&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Apache2-505968?logo=apache&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Linux-505968?logo=linux&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Markdown-505968?logo=markdown&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/Astro-505968?logo=astro&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/TypeScript-505968?logo=typescript&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/React.js-505968?logo=react&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Next.js-505968?logo=next.js&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Alpine.js-505968?logo=alpine.js&logoColor=fff&style=flat)
+</br>
+![](https://img.shields.io/badge/Tailwind&nbsp;CSS-505968?logo=tailwindcss&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Less-505968?logo=less&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Vercel-505968?logo=vercel&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Electron.js-505968?logo=electron&logoColor=fff&style=flat)<br/>
+![](https://img.shields.io/badge/Redux-505968?logo=redux&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Axios-505968?logo=axios&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Apache-505968?logo=apache&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Git-505968?logo=git&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Docker-505968?logo=docker&logoColor=fff&style=flat)<br/>
+![](https://img.shields.io/badge/Python-505968?logo=python&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/WordPress&nbsp;API-505968?logo=wordpress&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Socket.io-505968?logo=socket.io&logoColor=fff&style=flat)
+
