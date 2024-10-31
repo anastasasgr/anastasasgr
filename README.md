@@ -1,7 +1,7 @@
 ### 👋 Hey everyone!
 
 #### My name is Alexandros Anastasiadis
-Software Developer with **1.5 years** of experience in developing web applications and websites. After completing a series of online courses and working on several personal projects, I have gained a solid understanding of core technologies such as HTML, CSS, PHP and JavaScript, as well as experience with frameworks like Laravel, React and React Native.
+Front-end Developer with **1.5 years** of experience in developing web applications and websites. After completing a series of online courses and working on several personal projects, I have gained a solid understanding of core technologies such as HTML, CSS, PHP and JavaScript, as well as experience with frameworks like Laravel, React and React Native.
  
  
  ### My Socials 🌐
