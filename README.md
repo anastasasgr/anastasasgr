@@ -6,7 +6,7 @@ Software Developer with **1.5 years** of experience in developing web applicatio
  
  ### My Socials 🌐
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-505968?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/anastasasgr) [![CodePen](https://img.shields.io/badge/CodePen-505968?logo=codepen&logoColor=fff&style=flat)](https://codepen.io/anastasasgr) [![DevTo](https://img.shields.io/badge/DEV-505968?logo=dev.to&logoColor=fff&style=flat)](https://dev.to/anastasasgr) [![DevTo](https://img.shields.io/badge/Whatsapp-505968?logo=whatsapp&logoColor=fff&style=flat)](	https://wa.me/306980004893)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-505968?logo=linkedin&logoColor=fff&style=flat)](https://linkedin.com/in/anastasagr) [![CodePen](https://img.shields.io/badge/CodePen-505968?logo=codepen&logoColor=fff&style=flat)](https://codepen.io/anastasagr) [![DevTo](https://img.shields.io/badge/DEV-505968?logo=dev.to&logoColor=fff&style=flat)](https://dev.to/anastasagr) [![DevTo](https://img.shields.io/badge/Whatsapp-505968?logo=whatsapp&logoColor=fff&style=flat)](	https://wa.me/306980004893)
 
 ### Hobbies 
 - 📷 Nature,portrait and macro photography
