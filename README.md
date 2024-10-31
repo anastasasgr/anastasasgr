@@ -1,7 +1,7 @@
 ### 👋 Hey everyone!
 
 #### My name is Alexandros Anastasiadis
-Front-end Developer with **1.5 years** of experience in developing web applications and websites. After completing a series of online courses and working on several personal projects, I have gained a solid understanding of core technologies such as HTML, CSS, PHP and JavaScript, as well as experience with frameworks like Laravel, React and React Native.
+Software Developer with **1.5 years** of experience in developing web applications and websites. After completing a series of online courses and working on several personal projects, I have gained a solid understanding of core technologies such as HTML, CSS, PHP and JavaScript, as well as experience with frameworks like Laravel, React and React Native.
  
  
  ### My Socials 🌐
@@ -17,8 +17,19 @@ Front-end Developer with **1.5 years** of experience in developing web applicati
 
 ### Familiarity with 🔥
 
-
-![DevTo](https://img.shields.io/badge/JavaScript-505968?logo=javascript&logoColor=fff&style=flat) ![TS](https://img.shields.io/badge/TypeScript-505968?logo=typescript&logoColor=fff&style=flat) ![React](https://img.shields.io/badge/React.js-505968?logo=react&logoColor=fff&style=flat) ![Next](https://img.shields.io/badge/Next.js-505968?logo=next.js&logoColor=fff&style=flat)
-![Astro](https://img.shields.io/badge/Astro-505968?logo=astro&logoColor=fff&style=flat)<br/>
-![Tailwind](https://img.shields.io/badge/TailwindCSS-505968?logo=tailwindcss&logoColor=fff&style=flat) ![Alpine.js](https://img.shields.io/badge/Alpine.js-505968?logo=alpine.js&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/Git-505968?logo=git&logoColor=fff&style=flat) ![Docker](https://img.shields.io/badge/Docker-505968?logo=docker&logoColor=fff&style=flat)
-![WordPress](https://img.shields.io/badge/WordPress-505968?logo=wordpress&logoColor=fff&style=flat) <br/>![PHP](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat) ![NPM](https://img.shields.io/badge/Sass-505968?logo=sass&logoColor=fff&style=flat)  ![Vercel](https://img.shields.io/badge/Vercel-505968?logo=vercel&logoColor=fff&style=flat)  ![Vite](https://img.shields.io/badge/Vite-505968?logo=vite&logoColor=fff&style=flat) ![Axios](https://img.shields.io/badge/Axios-505968?logo=axios&logoColor=fff&style=flat) ![Play](https://img.shields.io/badge/GooglePlay-505968?logo=googleplay&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/TypeScript-505968?logo=typescript&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/React.js-505968?logo=react&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Less-505968?logo=less&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Alpine.js-505968?logo=alpine.js&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Tailwind-505968?logo=tailwindcss&logoColor=fff&style=flat)<br/>
+![Play](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/MySQL-505968?logo=mysql&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Socket.io-505968?logo=socket.io&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/JWT-505968?logo=jsonwebtokens&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Docker-505968?logo=docker&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Git-505968?logo=git&logoColor=fff&style=flat)<br/>
+![Play](https://img.shields.io/badge/WordPress-505968?logo=wordpress&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Apache2-505968?logo=apache&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Linux-505968?logo=linux&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Markdown-505968?logo=markdown&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Astro-505968?logo=astro&logoColor=fff&style=flat)
