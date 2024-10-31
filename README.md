@@ -16,16 +16,15 @@ Software Developer with **1.5 years** of experience in developing web applicatio
 
 
 ### Familiarity with 🔥
-
 ![Play](https://img.shields.io/badge/TypeScript-505968?logo=typescript&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/React.js-505968?logo=react&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Less-505968?logo=less&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Alpine.js-505968?logo=alpine.js&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Tailwind-505968?logo=tailwindcss&logoColor=fff&style=flat)<br/>
-![Play](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/Lua-505968?logo=lua&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/MySQL-505968?logo=mysql&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Socket.io-505968?logo=socket.io&logoColor=fff&style=flat)
-![Play](https://img.shields.io/badge/JWT-505968?logo=jsonwebtokens&logoColor=fff&style=flat)
+![Play](https://img.shields.io/badge/PHP-505968?logo=php&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Docker-505968?logo=docker&logoColor=fff&style=flat)
 ![Play](https://img.shields.io/badge/Git-505968?logo=git&logoColor=fff&style=flat)<br/>
 ![Play](https://img.shields.io/badge/WordPress-505968?logo=wordpress&logoColor=fff&style=flat)
